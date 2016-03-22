@@ -1,0 +1,13 @@
+This is implementation of Connect4 game using Scala programming language.
+
+Here the size of the board and the depth of the search is configurable.
+
+Depth of the game determines the difficulty. Higher depth indicates higher difficulty.
+
+NOTE:
+Minimum depth of 2 is recommended.
+
+How to Play:
+
+scalac Play_main.scala Utility.scala
+scala Play_main
